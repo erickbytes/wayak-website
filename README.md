@@ -2,7 +2,7 @@
 a travel agency bookings [Django](https://github.com/erickbytes/wayak-website) website for
 [Wayak Viajes](https://www.facebook.com/wayakviajes/)
 
-##Install Django
+## Install Django
 
 ```pip install Django```
 
