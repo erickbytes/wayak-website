@@ -2,11 +2,11 @@
 a travel agency bookings [Django](https://github.com/erickbytes/wayak-website) website for
 [Wayak Viajes](https://www.facebook.com/wayakviajes/)
 
-**Install Python Libraries**
+##Install Django
+
 ```pip install Django```
 
-**Django Commands**
-
+## Django Commands
 
 start development server
 
@@ -29,4 +29,5 @@ migrate DB
 ```python manage.py migrate```
 
 view DB from shell:
+
 ```python manage.py shell```
