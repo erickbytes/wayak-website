@@ -1,5 +1,5 @@
 # wayak-website
-a travel agency bookings [Django](https://github.com/erickbytes/wayak-website) website for
+a travel agency bookings [Django](https://www.djangoproject.com/) website for
 [Wayak Viajes](https://www.facebook.com/wayakviajes/)
 
 ## Install Django
