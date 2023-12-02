@@ -8,20 +8,25 @@ a travel agency bookings [Django](https://github.com/erickbytes/wayak-website) w
 **Django Commands**
 
 
-Start dev server:
+start development server
+
 ```python manage.py runserver```
 
-generate new app structure:
+generate new app structure
+
 ```python manage.py startapp bookings```
 
-Generate migrations for DB
+generate migrations for DB
+
 ```python manage.py makemigrations bookings```
 
 peek SQL
+
 ```python manage.py sqlmigrate bookings 0001```
 
-Migrate DB
+migrate DB
+
 ```python manage.py migrate```
 
-View DB from shell:
+view DB from shell:
 ```python manage.py shell```
